@@ -1,0 +1,130 @@
+.play{height: 70px;
+    width: 250px;
+  border-radius: 4%;
+}
+.large{
+    font-size: 30px;
+   
+}
+.row h1 {  font-family: 'Caprasimo', cursive;
+     font-size: 90px;  
+     line-height: 1.5;  
+     font-weight: 100;
+     color: aliceblue;
+     
+    }
+.sr{padding: 3% 20%;
+    font-family: 'Lobster', cursive;
+    font-size: 70px;
+    font-weight: 20;
+color: rgb(79, 0, 56);}
+.row{
+    padding: 3% 20%;
+}
+.row h3{
+    font-family: 'Caprasimo', cursive;
+    font-size: 40px;
+}
+p{
+    color: rgb(129, 129, 129);
+    font-size: 22px;
+}
+body{
+    font-family: Montserrat-black;
+}
+     #title
+{
+    background-color: rgb(245, 96, 96);
+   
+} 
+.down-btn{
+    margin: 5% 3% 5% 0;
+}
+.phone{width:70%;
+    transform: rotate(30deg);
+    position: absolute;
+}
+@media(max-width:2170px){
+    .phone{
+        position: static;
+transform: rotate(0);}
+}
+#features{
+    padding:7% 15%;
+    background-color: aliceblue;
+    position: relative;
+    
+  
+}
+.features-box{
+    text-align: center;
+}
+
+.icon:hover{
+    color: rgb(226, 131, 213);
+}
+ 
+.container-fluid{
+    padding: 3% 15% 5%;
+}
+#testimonials{
+    
+    text-align: center;
+    background-color: rgb(255, 103, 103);
+}
+.ga h2{  padding-bottom: 4%;
+    font-size: 60px;
+    color: aliceblue;
+    font-weight: 50;
+    font-family: 'Montserrat', sans-serif;
+}
+.test {
+    width:10%;
+    border-radius: 100%;
+}
+
+#press{
+    padding-top: 4%;
+    padding-bottom: 3%;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+#cta{
+    background-color: rgb(245, 96, 96);
+   
+    padding: 7% 15%;
+    text-align: center;
+    font-size: 30px;
+    
+}
+.ere {font-family: 'Caprasimo', cursive;
+    font-size: 80px;
+color: aliceblue;}
+#footer{
+    text-align: center;
+    padding: 5% 15%;
+    
+}
+.card-body h2{
+    font-size: 60px;
+}
+.mo{
+    margin: 2% 1%;
+}
+.rain{
+    font-family: 'Caprasimo', cursive;
+    font-size: 50px;
+    padding-top: 5%;
+}
+#pricing h3{
+    font-family: 'Caprasimo', cursive;
+}
+#pricing{
+    text-align: center;
+    padding:100px;
+}
+#pricing p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
